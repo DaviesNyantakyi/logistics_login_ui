@@ -1,6 +1,9 @@
 # sign_up_ui
 
 A new Flutter project.
+![](assets/screenshots/login_screen.jpg)
+![](assets/screenshots/sign_up_screen.jpg)
+![](assets/screenshots/forgot_password_screen.jpg)
 
 ## Getting Started
 
